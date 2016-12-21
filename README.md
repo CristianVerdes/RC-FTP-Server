@@ -5,8 +5,13 @@ The server can:
 - gives the client the feature to delete, create, copy directories and delete, copy files. 
 - download and upload files anywhere
 
-## Running
-- The project works only on a Linux OS.
+# Status
+- Not finished
 
 ## Problems
 - The project has some threads sync problems (I'll fix this next week)
+
+## Running
+- The project works only on a Linux OS.
+
+
