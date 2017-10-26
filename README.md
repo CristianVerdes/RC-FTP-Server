@@ -9,7 +9,7 @@ The server can:
 - Not finished
 
 ## Problems
-- The project has some threads sync problems (I'll fix this next week)
+- The project has some threads sync problems.
 
 ## Running
 - The project works only on a Linux OS.
