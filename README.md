@@ -6,12 +6,13 @@ The server can:
 - download and upload files anywhere
 
 # Status
+- Deprecated
+- Refactored in the repository: https://github.com/CristianVerdes/RC-FTP-Final/tree/master
 - Not finished
 
 ## Problems
-- The project has some threads sync problems.
+- Fixed the issues in the repository above
+- Old :The project has some threads sync problems.
 
 ## Running
 - The project works only on a Linux OS.
-
-
